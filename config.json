@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterpncrypt",
+        "uuid": 6477311,
+        "checksum": "pcxbef"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
